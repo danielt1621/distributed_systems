@@ -1,0 +1,23 @@
+{
+  "name": "distributed_systems",
+  "version": "1.0.0",
+  "description": "For college",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielt1621/distributed_systems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielt1621/distributed_systems/issues"
+  },
+  "homepage": "https://github.com/danielt1621/distributed_systems#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
